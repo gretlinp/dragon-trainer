@@ -1,29 +1,47 @@
-# dragon-trainer
+# Dragon Trainer
 
-This template should help get you started developing with Vue 3 in Vite.
+## The Story
 
-## Recommended IDE Setup
+You are a freelance dragon trainer seeking glory. You must complete missions in order to become a true Dragon Tamer known in all the kingdom. But having a dragon does not guarantee your success. You must also act with thought - choose your battles wisely.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Prerequisites
 
-## Customize configuration
+Before you begin, ensure you have the following installed:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (comes with Node.js)
 
-## Project Setup
+## Installation and Setup
+
+1. Clone the repository
+
+```sh
+gh repo clone gretlinp/dragon-trainer
+# or
+git clone https://github.com/gretlinp/dragon-trainer.git
+cd dragon-trainer
+```
+
+2. Install dependencies
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+3. Start the development server
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Tech Stack
 
-```sh
-npm run build
-```
+- Vue 3
+- Vuetify 3
+- TypeScript
+- Vite
+
+## Sources
+
+https://dragonsofmugloar.com/
+https://dragonsofmugloar.com/doc/
